@@ -1,0 +1,10 @@
+{
+  "build": {
+    "simulator": {
+      "ios": {
+        "simulator": true,
+        "image": "sdk-55"
+      }
+    }
+  }
+}

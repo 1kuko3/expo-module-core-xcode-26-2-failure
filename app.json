@@ -8,7 +8,11 @@
     "scheme": "expomodulecorexcode262failure",
     "userInterfaceStyle": "automatic",
     "ios": {
-      "icon": "./assets/expo.icon"
+      "icon": "./assets/expo.icon",
+      "bundleIdentifier": "com.jakubfromlugg.expomodulecorexcode262failure",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
     },
     "android": {
       "adaptiveIcon": {
@@ -39,6 +43,13 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "0b0491bf-7d15-4a74-b671-65483092d66d"
+      }
+    },
+    "owner": "jakubfromlugg"
   }
 }
