@@ -45,14 +45,6 @@
           "merchantIdentifier": "merchant.com.test",
           "enableGooglePay": true
         }
-      ],
-      [
-        "@intercom/intercom-react-native",
-        {
-          "appId": "test",
-          "iosApiKey": "test",
-          "androidApiKey": "test"
-        }
       ]
     ],
     "experiments": {
