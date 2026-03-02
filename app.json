@@ -40,10 +40,11 @@
         }
       ],
       [
-        "@stripe/stripe-react-native",
+        "@intercom/intercom-react-native",
         {
-          "merchantIdentifier": "merchant.com.test",
-          "enableGooglePay": true
+          "appId": "test",
+          "iosApiKey": "test",
+          "androidApiKey": "test"
         }
       ]
     ],
