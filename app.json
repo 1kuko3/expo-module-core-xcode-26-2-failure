@@ -42,7 +42,7 @@
       [
         "@stripe/stripe-react-native",
         {
-          "merchantIdentifier": "merchant.com.test",
+          "merchantIdentifier": "com.jakubfromlugg.expomodulecorexcode262failure",
           "enableGooglePay": true
         }
       ],
